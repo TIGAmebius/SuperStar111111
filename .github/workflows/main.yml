@@ -25,5 +25,5 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u  -p  -l 
+        run: python main.py -u 18217067841 -p 20070316Taorui -l 255964052
  #课程id，默认为心理课的
